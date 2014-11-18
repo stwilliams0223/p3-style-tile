@@ -1,3 +1,39 @@
+/*Primary header*/
+
+
+h1{
+
+font-family: 'Fontdiner Swanky', cursive;
+color: red;
+
+}
+
+
+/*Body Text*/
+
+
+p{
+
+
+line-height: 1.5em;
+color: #eee;
+
+}
+
+
+/*Links*/
+
+
+a:link, a:visited{
+
+text-transform: uppercase;
+border-bottom: double black 2px;
+text-decoration: none;
+
+
+}
+
+
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
@@ -21,6 +57,48 @@ section {
 	width: 50px;
 }
 
+/*Color Palette*/
+
+.color-1{
+
+background: teal;
+
+}
+
+.color-2{
+
+
+background: cornflowerblue;
+
+}
+
+
+.color-3{
+
+background: red;
+
+}
+
+
+/*Textures*/
+
+.pattern-1{
+
+background-image: url(http://www.transparenttextures.com/patterns/ag-square.png);
+
+}
+
+.pattern-2{
+
+background: url("..img/upfeathers.png")
+
+}
+
+.pattern-3{
+
+
+
+}
 
 /* Show Grid */
 .showgrid {
