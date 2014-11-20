@@ -6,7 +6,7 @@ body{
 	font-size: 14px;
 	color: #404040;
 	margin: 10px;
-	background: url("../img/square_bg.png") #29A9FF;
+	background: black;
 }
 
 header{
@@ -197,7 +197,7 @@ padding-top: 0px;
 padding-bottom: 20px;
 
 border-radius: 4px;
-background: url("../img/whitey.png") #F2F2F2;
+background: white;
 
 
 
@@ -219,7 +219,7 @@ nav {
 	font-size: 17px;
 	color: teal;
 	position: fixed;
-	background: url("../img/bg.png") white;
+	background: blue;
 	width:100%;
 	height: 135px;
 	top:left;
