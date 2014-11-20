@@ -153,11 +153,11 @@ background: url("..img/upfeathers.png")
 	text-align: center;
 	color: white;
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size:55px;
+	font-size: 5.8em;
 	margin: 0 auto;
 	background: #3399FF;
-	opacity: 0.7;
-	width: 600px;
+	opacity: 0.9;
+	width: 700px;
 	float: middle;
 	border-radius: 40px 40px 40px 40px;
 	box-shadow: 0px 0px 20px 3px #d3d3d3;
@@ -170,8 +170,9 @@ background: url("..img/upfeathers.png")
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	font-size: 14px;
 	color: #404040;
-	margin: 0px;
+	margin: -10px;
 	background: black;
+	border-radius: 10px 10px 10px 10px;
 
 
 /*Below CSS code copied from http://stackoverflow.com/questions/114543/how-to-horizontally-center-a-div-in-a-div*/
@@ -194,7 +195,7 @@ margin-right:10px;
 margin-bottom:10px;
 padding-top: 0px;
 padding-bottom: 20px;
-box-shadow: 10px 5px 20px 0px #d3d3d3;
+
 border-radius: 4px;
 background: url("../img/whitey.png") #F2F2F2;
 
