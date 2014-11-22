@@ -6,6 +6,8 @@ body{
 	font-size: 14px;
 	color: #404040;
 	margin: 10px;
+	background: url("../img/bg1.png");
+
 	
 }
 
@@ -184,9 +186,10 @@ background: url("../img/bg1.png")
 #container{
 
 	color: #404040;
-	margin: -10px;
+	margin: -30px;
 	background: url("../img/bg1.png");
 	border-radius: 10px 10px 10px 10px;
+
 
 
 
